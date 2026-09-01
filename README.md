@@ -5,7 +5,7 @@ Sou estudante de **Engenharia da Computação** na **Universidade Federal do Esp
 ### 🔭 O que estou fazendo atualmente:
 * **Pesquisa de Iniciação Científica:** Desenvolvendo sistemas baseados em Agentes LLM e Modelos de Visão-Linguagem para meta-análise de bancos de imagens (focado em eventos de cauda longa com o dataset BDD100K).
 * **Engenharia de Software (LabES):** Colaborando no desenvolvimento do projeto Marvin para organizar projetos de extensão na UFES, utilizando ferramentas corporativas.
-* **Projetos e Comunidade:** Atuando como trainee no projeto de extensão **Introcomp** e explorando a criação de jogos 2D e 3D utilizando a engine **Godot** no tempo livre.
+* **Projetos** Faço projetos pessoais na game engine godot para brincar um pouco
 
 ### 🛠️ Tecnologias e Ferramentas:
 
